@@ -20,7 +20,7 @@ public class Principal {
         Jogadores jogador3 = new Jogadores();*/
    
    Jogo jogo = new Jogo();
-   jogo.jogar(8);
+   jogo.jogar(8); 
         
     }
     
